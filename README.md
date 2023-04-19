@@ -23,6 +23,6 @@ Here's also a screenshot that you can also follow along with the mentioned setti
 
 ![plot](./MCC_Settings_Img/TMR1_timer.PNG)
 
-![plot](./MCC_Settings_Img/TMR1_timer.PNG)
+![plot](./MCC_Settings_Img/LED_settings.PNG)
 
 
