@@ -134,7 +134,7 @@ void SCCP1_TMR_Stop( void )
 {
     /* Stop the Timer */
 //    CCP1CON1Lbits.CCPON = false;
-    IEC0bits.CCT1IE = 1;
+    IEC0bits.CCT1IE = 0;
 }
 
 void __attribute__ ((weak)) SCCP1_TMR_PrimaryTimerCallBack(void)
